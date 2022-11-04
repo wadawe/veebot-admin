@@ -1,0 +1,4 @@
+[submodule "src"]
+	path = src
+	url = git@github.com:wadawe/veebot-source.git
+	branch = main
